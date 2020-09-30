@@ -11,7 +11,7 @@ Ssh, noVnc, filebrowser, µTorrent, Transmission Web Control, SocialFish, L3MON,
 
 # Usage
 1. Click on the "Open in Colab" button.
-<a href="https://colab.research.google.com/github/helloW3c/Google-Colab-CloudTorrent/blob/master/torrentTOmega_gdrive.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/github/helloW3c/Google-Colab-CloudTorrent/blob/master/torrentTOmega_gdrive_V2.Ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 
 ### Our telegram group
